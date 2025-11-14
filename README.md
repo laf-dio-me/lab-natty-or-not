@@ -28,6 +28,7 @@ Ebook para pessoas com diabetes
 ## 🤖 Tecnologias Utilizadas
 GPT
 GPT-IMAGENS
+GAMMA
 
 ## 🧐 Processo de Criação
 Criação de um prompt bem elaborado consultando informações atualizadas de fontes confiáveis (OMS, SBD, NCBI)
