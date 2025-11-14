@@ -43,7 +43,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 - [E-BOOK](/exemplos/VIVENDO COM DIABETES Guia Prático para uma Vida Saudável.md)
 
-[E-BOOK]: /EXEMPLOS/VIVENDO-COM-DIABETES-Guia-Pratico-para-uma-Vida-Saudavel.pdf
+[E-BOOK]: /exemplos/VIVENDO-COM-DIABETES-Guia-Pratico-para-uma-Vida-Saudavel.pdf
 
 
 
