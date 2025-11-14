@@ -23,13 +23,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook para pessoas com diabetes
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GPT
+GPT-IMAGENS
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação de um prompt bem elaborado consultando informações atualizadas de fontes confiáveis (OMS, SBD, NCBI)
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
