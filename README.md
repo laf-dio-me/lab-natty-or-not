@@ -33,7 +33,7 @@ GPT-IMAGENS
 Criação de um prompt bem elaborado consultando informações atualizadas de fontes confiáveis (OMS, SBD, NCBI)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Exemplo esta no Link do E-Book
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -41,9 +41,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](/exemplos/VIVENDO COM DIABETES Guia Prático para uma Vida Saudável.md)
 
 ## Links Interessantes
 
