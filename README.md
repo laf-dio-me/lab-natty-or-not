@@ -43,6 +43,10 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 - [E-BOOK](/exemplos/VIVENDO COM DIABETES Guia Prático para uma Vida Saudável.md)
 
+[E-BOOK]: /EXEMPLOS/VIVENDO-COM-DIABETES-Guia-Pratico-para-uma-Vida-Saudavel.pdf
+
+
+
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
