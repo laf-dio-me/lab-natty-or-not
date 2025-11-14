@@ -42,9 +42,9 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/VIVENDO COM DIABETES Guia Prático para uma Vida Saudável.md)
+- [E-BOOK](https://github.com/laf-dio-me/lab-natty-or-not/blob/main/exemplos/VIVENDO-COM-DIABETES-Guia-Pratico-para-uma-Vida-Saudavel.pdf)
 
-[E-BOOK]: /exemplos/VIVENDO-COM-DIABETES-Guia-Pratico-para-uma-Vida-Saudavel.pdf
+
 
 
 
